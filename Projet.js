@@ -1,5 +1,6 @@
-const url =("https://geo.api.gouv.fr/communes?codePostal=",elt)
 
+
+const url =("https://geo.api.gouv.fr/communes?codePostal=",elt)
 
 /*
 fetch(url)
@@ -9,5 +10,6 @@ fetch(url)
 
 })
 */
+
 
 
